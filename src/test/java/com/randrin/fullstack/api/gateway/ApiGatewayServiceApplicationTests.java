@@ -1,4 +1,4 @@
-package com.randrin.fullstack.apigateway;
+package com.randrin.fullstack.api.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
